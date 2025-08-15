@@ -102,6 +102,6 @@ Implementar e aplicar transformações lineares sobre imagens utilizando **opera
 
 * Aprofundamento no uso de **matrizes** e **operações lineares** para manipulação de imagens.
 * Entendimento da relação entre **geometria** e **pixels**.
-* Construção de um pipeline manual para modificações visuais.
+* Enfrentamento de desafios no cenários de manipulação imagens, como visto no escalonamento com interpolação bilinear
 
 
