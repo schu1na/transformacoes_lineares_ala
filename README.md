@@ -84,8 +84,16 @@ Implementar e aplicar transformações lineares sobre imagens utilizando **opera
 
 ### 6️⃣ Aplicações Extras
 
+#### Escala Cinza
+
 ![Escala Cinza](results/j_gray.png)
+
+#### Escalonamento com Interpolação Bilinear
+
 ![Escalonamento com Interpolação Bilinear](results/j_streched_v2.png)
+
+#### Reflexão com Diagonalização
+
 ![Reflexão Vertical com Diagonalização](results/j_reflected_v2.png)
 
 ---
